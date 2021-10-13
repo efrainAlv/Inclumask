@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+
+  website:
+    container_name: inclumask-website
+    image: react-nginx:website
+    ports:
+      - "3000:80"
