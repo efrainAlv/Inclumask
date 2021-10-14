@@ -6,4 +6,4 @@ services:
     container_name: inclumask-website
     image: react-nginx:website
     ports:
-      - "3000:80"
+      - "80:80"
