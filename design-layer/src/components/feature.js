@@ -96,7 +96,7 @@ class Feature extends Component {
                                 </div>
                                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 ">
                                     <div class="vegetable_img">
-                                        <figure><img src="images/wash.jpg" alt="#" style={{ width: "100%" }} /></figure>
+                                        <figure><img src="images/productofinal1.png" alt="#" style={{ width: "100%" }} /></figure>
                                     </div>
                                 </div>
 
@@ -107,7 +107,7 @@ class Feature extends Component {
 
                                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 ">
                                     <div class="vegetable_img">
-                                        <figure><img src="images/wash.jpg" alt="#" style={{ width: "100%" }} /></figure>
+                                        <figure><img src="images/productofinal2.png" alt="#" style={{ width: "100%" }} /></figure>
                                     </div>
                                 </div>
                                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 ">
