@@ -39,13 +39,12 @@ class About extends Component {
 
                                     <h1>Mision</h1>
                                     <p style={{ paddingTop: "5px", paddingRight: "15px" }}>
-                                        Convertirnos en los encargados de generar un entorno más inclusivo, facilitando la comunicaciónfísica y verbal.
+                                        Derribar barreras de comunicación y mejorar la interacción entre personas oyentes y sordas, con una mascarilla protectora e inclusiva que haga conciencia sobre los problemas de comunicación que hay en el mundo.
                                     </p>
 
                                     <h1>Vision</h1>
                                     <p style={{ paddingTop: "5px", paddingRight: "15px" }}>
-                                        Derribar barreras de comunicación y mejorar la interacción entre personas oyentes y sordas, conuna mascarilla protectora e inclusiva que haga conciencia sobre los problemas de comunicación que
-                                        hay en el mundo.
+                                        Generar un entorno más inclusivo, facilitando la comunicación física y verbal.
                                     </p>
                                 </div>
                             </div>
